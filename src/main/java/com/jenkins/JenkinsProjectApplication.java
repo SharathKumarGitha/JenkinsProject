@@ -14,6 +14,7 @@ public class JenkinsProjectApplication {
 		System.out.println("fourth line");
 		System.out.println("fifth line");
 		System.out.println("this is sixth line");
+		System.out.println("this is seventh line");
 	}
 
 }
